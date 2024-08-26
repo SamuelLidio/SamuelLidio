@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0066ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-lidio)
 
 ## Habilidades
-[![Python](https://img.shields.io/badge/Pyhton-ffc43a?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java)
 [![Git](https://img.shields.io/badge/Git-ff7400?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/docs/git)
 [![Github](https://img.shields.io/badge/Github-2d2e40?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 
